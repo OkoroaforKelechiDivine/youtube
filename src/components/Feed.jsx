@@ -60,5 +60,4 @@ const Feed = () => {
     </Stack>
   )
 }
-
 export default Feed
